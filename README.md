@@ -1,5 +1,5 @@
 # sequence-diagram-
-<p align="center"><b>Инструкция по открытию Sequence диаграмм </b></p>
+<p align="center"><b>Инструкция по открытию <i>Sequence диаграмм</i> </b></p>
 <ol>
   <li> Выбрать ветку в репозитории </li>
   <li> Нажать на диаграмму </li>
